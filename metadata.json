@@ -1,0 +1,5 @@
+{
+  "name": "Simple Bank - Persistent",
+  "description": "A simulated banking application with local database persistence, real-time deposit/withdrawal, and an AI support assistant.",
+  "requestFramePermissions": []
+}
